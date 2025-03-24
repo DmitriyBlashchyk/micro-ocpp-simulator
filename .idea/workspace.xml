@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="">
+    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/evse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/evse.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +75,24 @@
       <workItem from="1742217424888" duration="1323000" />
       <workItem from="1742219681482" duration="636000" />
       <workItem from="1742227005407" duration="1790000" />
-      <workItem from="1742815948078" duration="692000" />
+      <workItem from="1742815948078" duration="768000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking.">
+      <option name="closed" value="true" />
+      <created>1742816655330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742816655330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking." />
   </component>
 </project>
