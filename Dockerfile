@@ -15,7 +15,7 @@ WORKDIR /MicroOcppSimulator
 # Copy your application files to the container's working directory
 COPY . .
 
-RUN git submodule init && git submodule update
+RUN git submodule init && git submodule update --init --recursive
 RUN cmake -S . -B ./build
 RUN cmake --build ./build -j 16 --target mo_simulator -j 16
 
