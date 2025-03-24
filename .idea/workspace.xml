@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/evse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/evse.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pnwcXFkb63DqusO4HhlxBTiqTn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/develop/Documents/MicroOcppSimulator&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="" />
+      <created>1733415227220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733415227220</updated>
+      <workItem from="1733415228327" duration="5412000" />
+      <workItem from="1733423135390" duration="631000" />
+      <workItem from="1733681008047" duration="1302000" />
+      <workItem from="1733761349018" duration="2474000" />
+      <workItem from="1734422762242" duration="6739000" />
+      <workItem from="1734445459940" duration="2628000" />
+      <workItem from="1734448899558" duration="5717000" />
+      <workItem from="1734861702782" duration="1357000" />
+      <workItem from="1734863147966" duration="4043000" />
+      <workItem from="1735045520605" duration="1564000" />
+      <workItem from="1735219585174" duration="28000" />
+      <workItem from="1739264950932" duration="1647000" />
+      <workItem from="1739512746460" duration="232000" />
+      <workItem from="1739710458100" duration="806000" />
+      <workItem from="1741791762209" duration="1585000" />
+      <workItem from="1742205275485" duration="2094000" />
+      <workItem from="1742217424888" duration="1323000" />
+      <workItem from="1742219681482" duration="636000" />
+      <workItem from="1742227005407" duration="1790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
